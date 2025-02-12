@@ -1,0 +1,4 @@
+{'Bois': 5330, 'Fer': 60000, 'Pierre': 324749}
+{'Planches': 24304, 'Lingots De Fer': 190003}
+{'Viande': 53000, 'Boissons': 90000}
+{'Vetements Hiver': 7000, 'Outils En Cuivre': 110002}
